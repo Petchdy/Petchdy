@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Kulwisit Sakkittiphokhin
 <hr>
-
+Currently studying at Mahidol University in the field of Computer Engineering.
 
 <!--
 **Petchdy/Petchdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
