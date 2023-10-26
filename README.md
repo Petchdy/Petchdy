@@ -1,5 +1,6 @@
-### 👋 Kulwisit Sakkittiphokhin
-Currently studying at Mahidol University in the field of Computer Engineering.
+## 👋 Kulwisit Sakkittiphokhin
+
+I'm currently studying at Mahidol University in the field of Computer Engineering.
 
 <!--
 **Petchdy/Petchdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
