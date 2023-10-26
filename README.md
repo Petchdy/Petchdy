@@ -1,6 +1,5 @@
 ### Hi there 👋
 ## I'm Kulwisit Sakkittiphokhin
-<hr>
 Currently studying at Mahidol University in the field of Computer Engineering.
 
 <!--
