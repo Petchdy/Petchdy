@@ -1,6 +1,6 @@
 ### 👋 Kulwisit Sakkittiphokhin
 I'm a Computer Engineering student at Mahidol University.
-- 🌱 I’m currently learning -> MySQL.
+- 🌱 I’m currently learning -> SQL.
 
 <!--
 **Petchdy/Petchdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
