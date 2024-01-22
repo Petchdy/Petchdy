@@ -3,7 +3,7 @@ I'm a Computer Engineering student at Mahidol University.
 - 🌱 I’m currently learning -> SQL.
 
 ![this card => Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Petchdy&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petchdy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petchdy&exclude_repo=Project_OT1_12_01&layout=compact)
 
 <!--
 ref of stats card => https://github.com/anuraghazra/github-readme-stats
