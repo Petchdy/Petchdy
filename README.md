@@ -2,10 +2,12 @@
 I'm a Computer Engineering student at Mahidol University.
 - 🌱 I’m currently learning -> SQL.
 
-![this card => Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Petchdy&show_icons=true)
+![this card => Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Petchdy&show_icons=true&theme=dracula)
 
 
 <!--
+ref of stats card => https://github.com/anuraghazra/github-readme-stats
+
 **Petchdy/Petchdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
