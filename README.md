@@ -7,8 +7,6 @@ I'm a Computer Engineering student at Mahidol University.
 
 <!--
 
-- 🌱 I’m currently learning -> SQL.
-
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petchdy&layout=compact&hide_progress=false&exclude_repo=Project_OT1_12_01" />
 </a>
